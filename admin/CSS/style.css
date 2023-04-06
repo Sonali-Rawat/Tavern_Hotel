@@ -73,4 +73,13 @@ body{
   height: 1.7px;
 }
 
+
+.custom-alert{
+  position: fixed;
+  top: 25px;
+  right: 25px;
+  
+}
+
+
 /*        #2E4F4F     #0E8388     #CBE4DE    #f6fcfa  */
