@@ -61,7 +61,7 @@ transition: all 0.3;
             <div class="bg-white rounded p-4 border-top border-4 border-dark shadow pop">
                 <div class="d-flex align-items-center mb-2">
                     <img src="Images/wifi.png" width="40px" alt="">
-                    <h5 class="m-0 ms-3">Wifi</h5>
+                    <h5 class="m-0 ms-3">Television</h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cumque mollitia molestias ipsam ipsum fugiat aliquid vel aut placeat voluptatem!</p>
             </div>
@@ -71,7 +71,7 @@ transition: all 0.3;
             <div class="bg-white rounded p-4 border-top border-4 border-dark shadow pop">
                 <div class="d-flex align-items-center mb-2">
                     <img src="Images/wifi.png" width="40px" alt="">
-                    <h5 class="m-0 ms-3">Wifi</h5>
+                    <h5 class="m-0 ms-3">Room Heater</h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cumque mollitia molestias ipsam ipsum fugiat aliquid vel aut placeat voluptatem!</p>
             </div>
@@ -81,7 +81,7 @@ transition: all 0.3;
             <div class="bg-white rounded p-4 border-top border-4 border-dark shadow pop">
                 <div class="d-flex align-items-center mb-2">
                     <img src="Images/wifi.png" width="40px" alt="">
-                    <h5 class="m-0 ms-3">Wifi</h5>
+                    <h5 class="m-0 ms-3">Air conditioners</h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cumque mollitia molestias ipsam ipsum fugiat aliquid vel aut placeat voluptatem!</p>
             </div>
@@ -91,7 +91,7 @@ transition: all 0.3;
             <div class="bg-white rounded p-4 border-top border-4 border-dark shadow pop">
                 <div class="d-flex align-items-center mb-2">
                     <img src="Images/wifi.png" width="40px" alt="">
-                    <h5 class="m-0 ms-3">Wifi</h5>
+                    <h5 class="m-0 ms-3">Internet connection</h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cumque mollitia molestias ipsam ipsum fugiat aliquid vel aut placeat voluptatem!</p>
             </div>
@@ -101,7 +101,7 @@ transition: all 0.3;
             <div class="bg-white rounded p-4 border-top border-4 border-dark shadow pop">
                 <div class="d-flex align-items-center mb-2">
                     <img src="Images/wifi.png" width="40px" alt="">
-                    <h5 class="m-0 ms-3">Wifi</h5>
+                    <h5 class="m-0 ms-3">Essentially kit, like: soap, shampoo, body milk</h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus cumque mollitia molestias ipsam ipsum fugiat aliquid vel aut placeat voluptatem!</p>
             </div>
