@@ -70,6 +70,18 @@
   </div>
 
 
+  <div class="container">
+  <div class="row justify-content-between align-items-center">
+    <div class="col-lg-6 col-md-4 mb-4 order-lg-1 order-md-1 order-2">
+      <h3 class="mb-3">Tanu Tomar</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. And Necessitatibus, labore voluptate. Architecto repudiandae, aliquam impedit minima veritatis unde temporibus fugit ut tenetur id, dolores ipsa ratione, accusamus ea consequatur vitae?</p>
+    </div>
+    <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">
+      <img src="Images/person4.jpg" class="w-100 " alt="">
+    </div>
+  </div>
+
+
   <div class="container mt-5">
     <div class="row">
       <div class="col-lg-3 col-md-6 mb-4 px-4">
