@@ -27,6 +27,7 @@ function select($sql,$values,$datatypes)
     $con=$GLOBALS['con'];
     if($stmt=mysqli_prepare($con,$sql))
     {
+
           mysqli_stmt_bind_param($stmt,$datatypes, ...$values);
           if(mysqli_stmt_execute($stmt))
           {
@@ -36,7 +37,7 @@ function select($sql,$values,$datatypes)
           }
           else
           {
-              die("Query cant not be excuted - Select");
+             
               mysqli_stmt_close($stmt);
               die("Query cant not be excuted - Select");
           }

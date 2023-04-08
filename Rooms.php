@@ -140,21 +140,36 @@
                     <div class="col-lg-9 col-md-12 px-4">
                         <div class="card mb-4 border-0 shadow">
                             <div class="row g-0 p-3 align-items-center">
-                                <div class="col-md-5">
-                                    <img src="./Images/room1.png" class="img-fluid rounded-start" alt="...">
+                                <div class="col-md-5 mb-lg-0 mb-md-0 mb-3">
+                                    <img src="./Images/room1.png" class="img-fluid rounded" alt="...">
                                 </div>
-                                <div class="col-md-5">
-                                    <img src="./" class="img-fluid rounded-start" alt="...">
+         <div class="col-md-5 px-lg-3 px-md-3 px-0">
+                                    <h5 class="mb-1"> Simple room  name</h5>
+                                    <div class="features mb-3">
+                    <h6 class="mb-3 card-heading ">Features</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">2 Rooms</span>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">1 Bathroom</span>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">3 Balcony</span>
+                 </div>
+                 <div class="facilities mb-3">
+                    <h6 class="mb-3 card-heading ">Facilities</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">Internet Connection</span>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">Air Conditionar</span> <br>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">Telivisioin</span>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">Room Heater</span>
+                 </div>
+                 <div class="guests">
+                    <h6 class="mb-3 card-heading ">Guests</h6>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">5 adults</span>
+                    <span class="badge rounded-pill bg-light text-dark text-wrape">4 children</span> <br>
+
+                 </div>
+
                                 </div>
-                                <div class="col-md-2">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">This is a wider card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
-                                        </p>
-                                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins
-                                                ago</small></p>
-                                    </div>
+                                <div class="col-md-2 text-center">
+                                <h6  class="mb-3" > ₹3500 per night</h6>
+                                <a href="#" class="btn btn-sm text-white  shadow-none custom-bg py-2 fw-bold shadow-none mb-2 ">Book Now</a>
+            <a href="#" class="btn btn-sm text-white  shadow-none custom-bg py-2 fw-bold shadow-none">More Details</a>
                                 </div>
                             </div>
                         </div>
