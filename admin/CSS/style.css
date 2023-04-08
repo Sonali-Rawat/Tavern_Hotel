@@ -81,5 +81,19 @@ body{
   
 }
 
+#dashboard-menu{
+  position: fixed;
+  height: 100%;
+}
 
+@media screen and (max-width:992px) {
+  #dashboard-menu{
+  
+    height: auto;
+    width: 100%;
+  }
+  #main-content{
+    margin-top: 60px;
+  }
+}
 /*        #2E4F4F     #0E8388     #CBE4DE    #f6fcfa  */
