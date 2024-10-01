@@ -54,7 +54,7 @@ require('partials/header.php')
     
        </div>  
       <div class="modal-footer">
-        <button type="button" class="btn text-secondary shadow-none" data-bs-dismiss="modal">CANCEL</button>
+        <button type="button" class="btn text-secondary" data-bs-dismiss="modal">CANCEL</button>
         <button type="button" class="btn custom-bg text-white shadow-none">SUBMIT</button>
       </div>
     </div>
